@@ -1,0 +1,11 @@
+{
+  "name": "krysto_sass",
+  "version": "1.0.0",
+  "description": "Application interne krysto",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Velten Stoyann",
+  "license": "ISC"
+}
